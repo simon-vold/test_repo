@@ -7,3 +7,5 @@ results.a = {'A','B','C'};
 
 % Test
 script1
+
+test_var = addition(45, 9);
