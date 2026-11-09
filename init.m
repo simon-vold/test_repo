@@ -9,3 +9,6 @@ results.a = {'A','B','C'};
 script1
 
 test_var = addition(45, 9);
+
+
+fprintf("Testing changes in main\n");
